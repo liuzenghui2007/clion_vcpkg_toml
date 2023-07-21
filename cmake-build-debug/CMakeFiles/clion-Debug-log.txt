@@ -11,6 +11,28 @@
 -- Check for working CXX compiler: /usr/bin/c++ - skipped
 -- Detecting CXX compile features
 -- Detecting CXX compile features - done
+find glog=0.6.0
+find toml11=3.7.1
+-- Found ZLIB: optimized;/home/zenghui/vcpkg/installed/x64-linux/lib/libz.a;debug;/home/zenghui/vcpkg/installed/x64-linux/debug/lib/libz.a (found version "1.2.13") 
+-- Found Protobuf: /home/zenghui/vcpkg/installed/x64-linux/tools/protobuf/protoc (found version "3.21.12.0") 
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+-- Looking for pthread_create in pthreads
+-- Looking for pthread_create in pthreads - not found
+-- Looking for pthread_create in pthread
+-- Looking for pthread_create in pthread - found
+-- Found Threads: TRUE  
+-- Found OpenSSL: /home/zenghui/vcpkg/installed/x64-linux/debug/lib/libcrypto.a (found version "3.1.1")  
+-- Found c-ares: /home/zenghui/vcpkg/installed/x64-linux/share/c-ares/c-ares-config.cmake (found version "1.19.0") 
+-- Check if compiler accepts -pthread
+-- Check if compiler accepts -pthread - yes
+-- Found RE2 via CMake.
+find gRPC=1.51.1
+-- Found TIFF: optimized;/home/zenghui/vcpkg/installed/x64-linux/lib/libtiff.a;debug;/home/zenghui/vcpkg/installed/x64-linux/debug/lib/libtiffd.a (found version "4.5.1")  
+-- Found LibLZMA: optimized;/home/zenghui/vcpkg/installed/x64-linux/lib/liblzma.a;debug;/home/zenghui/vcpkg/installed/x64-linux/debug/lib/liblzma.a (found version "5.4.3") 
+-- Found JPEG: optimized;/home/zenghui/vcpkg/installed/x64-linux/lib/libjpeg.a;debug;/home/zenghui/vcpkg/installed/x64-linux/debug/lib/libjpeg.a (found version "62") 
+-- Found OpenCV: /home/zenghui/vcpkg/installed/x64-linux (found version "4.7.0") 
+find OpenCV=4.7.0
 -- Configuring done
 -- Generating done
 -- Build files have been written to: /home/zenghui/CLionProjects/untitled/cmake-build-debug
