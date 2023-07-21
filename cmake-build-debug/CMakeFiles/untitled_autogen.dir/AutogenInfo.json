@@ -213,6 +213,7 @@
 	],
 	"MOC_INCLUDES" : 
 	[
+		"/home/zenghui/vcpkg/installed/x64-linux/include/libusb-1.0",
 		"/home/zenghui/Qt/5.15.2/gcc_64/include",
 		"/home/zenghui/Qt/5.15.2/gcc_64/include/QtCore",
 		"/home/zenghui/Qt/5.15.2/gcc_64/mkspecs/linux-g++",

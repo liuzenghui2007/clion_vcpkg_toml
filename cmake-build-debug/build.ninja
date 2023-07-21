@@ -53,7 +53,7 @@ build CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.o: CXX_COMPI
   DEFINES = -DGFLAGS_IS_A_DLL=0 -DQT_CORE_LIB
   DEP_FILE = CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.o.d
   FLAGS = -g -fdiagnostics-color=always -fPIC -std=gnu++17
-  INCLUDES = -I/home/zenghui/CLionProjects/untitled/cmake-build-debug/untitled_autogen/include -isystem /home/zenghui/Qt/5.15.2/gcc_64/include -isystem /home/zenghui/Qt/5.15.2/gcc_64/include/QtCore -isystem /home/zenghui/Qt/5.15.2/gcc_64/./mkspecs/linux-g++ -isystem /home/zenghui/vcpkg/installed/x64-linux/include
+  INCLUDES = -I/home/zenghui/CLionProjects/untitled/cmake-build-debug/untitled_autogen/include -I/home/zenghui/vcpkg/installed/x64-linux/include/libusb-1.0 -isystem /home/zenghui/Qt/5.15.2/gcc_64/include -isystem /home/zenghui/Qt/5.15.2/gcc_64/include/QtCore -isystem /home/zenghui/Qt/5.15.2/gcc_64/./mkspecs/linux-g++ -isystem /home/zenghui/vcpkg/installed/x64-linux/include
   OBJECT_DIR = CMakeFiles/untitled.dir
   OBJECT_FILE_DIR = CMakeFiles/untitled.dir/untitled_autogen
 
@@ -61,7 +61,7 @@ build CMakeFiles/untitled.dir/main.cpp.o: CXX_COMPILER__untitled_Debug /home/zen
   DEFINES = -DGFLAGS_IS_A_DLL=0 -DQT_CORE_LIB
   DEP_FILE = CMakeFiles/untitled.dir/main.cpp.o.d
   FLAGS = -g -fdiagnostics-color=always -fPIC -std=gnu++17
-  INCLUDES = -I/home/zenghui/CLionProjects/untitled/cmake-build-debug/untitled_autogen/include -isystem /home/zenghui/Qt/5.15.2/gcc_64/include -isystem /home/zenghui/Qt/5.15.2/gcc_64/include/QtCore -isystem /home/zenghui/Qt/5.15.2/gcc_64/./mkspecs/linux-g++ -isystem /home/zenghui/vcpkg/installed/x64-linux/include
+  INCLUDES = -I/home/zenghui/CLionProjects/untitled/cmake-build-debug/untitled_autogen/include -I/home/zenghui/vcpkg/installed/x64-linux/include/libusb-1.0 -isystem /home/zenghui/Qt/5.15.2/gcc_64/include -isystem /home/zenghui/Qt/5.15.2/gcc_64/include/QtCore -isystem /home/zenghui/Qt/5.15.2/gcc_64/./mkspecs/linux-g++ -isystem /home/zenghui/vcpkg/installed/x64-linux/include
   OBJECT_DIR = CMakeFiles/untitled.dir
   OBJECT_FILE_DIR = CMakeFiles/untitled.dir
 
@@ -69,7 +69,7 @@ build CMakeFiles/untitled.dir/usb_info.cpp.o: CXX_COMPILER__untitled_Debug /home
   DEFINES = -DGFLAGS_IS_A_DLL=0 -DQT_CORE_LIB
   DEP_FILE = CMakeFiles/untitled.dir/usb_info.cpp.o.d
   FLAGS = -g -fdiagnostics-color=always -fPIC -std=gnu++17
-  INCLUDES = -I/home/zenghui/CLionProjects/untitled/cmake-build-debug/untitled_autogen/include -isystem /home/zenghui/Qt/5.15.2/gcc_64/include -isystem /home/zenghui/Qt/5.15.2/gcc_64/include/QtCore -isystem /home/zenghui/Qt/5.15.2/gcc_64/./mkspecs/linux-g++ -isystem /home/zenghui/vcpkg/installed/x64-linux/include
+  INCLUDES = -I/home/zenghui/CLionProjects/untitled/cmake-build-debug/untitled_autogen/include -I/home/zenghui/vcpkg/installed/x64-linux/include/libusb-1.0 -isystem /home/zenghui/Qt/5.15.2/gcc_64/include -isystem /home/zenghui/Qt/5.15.2/gcc_64/include/QtCore -isystem /home/zenghui/Qt/5.15.2/gcc_64/./mkspecs/linux-g++ -isystem /home/zenghui/vcpkg/installed/x64-linux/include
   OBJECT_DIR = CMakeFiles/untitled.dir
   OBJECT_FILE_DIR = CMakeFiles/untitled.dir
 
@@ -81,9 +81,9 @@ build CMakeFiles/untitled.dir/usb_info.cpp.o: CXX_COMPILER__untitled_Debug /home
 #############################################
 # Link the executable untitled
 
-build untitled: CXX_EXECUTABLE_LINKER__untitled_Debug CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.o CMakeFiles/untitled.dir/main.cpp.o CMakeFiles/untitled.dir/usb_info.cpp.o | /home/zenghui/Qt/5.15.2/gcc_64/lib/libQt5Core.so.5.15.2 /home/zenghui/vcpkg/installed/x64-linux/debug/lib/libglog.a /home/zenghui/vcpkg/installed/x64-linux/debug/lib/libgflags_debug.a || untitled_autogen untitled_autogen_timestamp_deps
+build untitled: CXX_EXECUTABLE_LINKER__untitled_Debug CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.o CMakeFiles/untitled.dir/main.cpp.o CMakeFiles/untitled.dir/usb_info.cpp.o | /home/zenghui/Qt/5.15.2/gcc_64/lib/libQt5Core.so.5.15.2 /home/zenghui/vcpkg/installed/x64-linux/debug/lib/libglog.a /home/zenghui/vcpkg/installed/x64-linux/debug/lib/libusb-1.0.a /home/zenghui/vcpkg/installed/x64-linux/debug/lib/libgflags_debug.a || untitled_autogen untitled_autogen_timestamp_deps
   FLAGS = -g
-  LINK_LIBRARIES = -Wl,-rpath,/home/zenghui/Qt/5.15.2/gcc_64/lib  /home/zenghui/Qt/5.15.2/gcc_64/lib/libQt5Core.so.5.15.2  /home/zenghui/vcpkg/installed/x64-linux/debug/lib/libglog.a  /home/zenghui/vcpkg/installed/x64-linux/debug/lib/libgflags_debug.a  -lpthread
+  LINK_LIBRARIES = -Wl,-rpath,/home/zenghui/Qt/5.15.2/gcc_64/lib  /home/zenghui/Qt/5.15.2/gcc_64/lib/libQt5Core.so.5.15.2  /home/zenghui/vcpkg/installed/x64-linux/debug/lib/libglog.a  /home/zenghui/vcpkg/installed/x64-linux/debug/lib/libusb-1.0.a  -ludev  /home/zenghui/vcpkg/installed/x64-linux/debug/lib/libgflags_debug.a  -lpthread
   OBJECT_DIR = CMakeFiles/untitled.dir
   POST_BUILD = cd /home/zenghui/CLionProjects/untitled/cmake-build-debug && /opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/bin/cmake -E copy /home/zenghui/CLionProjects/untitled/example.toml /home/zenghui/CLionProjects/untitled/cmake-build-debug/example.toml
   PRE_LINK = :
@@ -139,7 +139,7 @@ build untitled_autogen/timestamp untitled_autogen/mocs_compilation.cpp | ${cmake
 #############################################
 # Phony custom command for CMakeFiles/untitled_autogen_timestamp_deps
 
-build CMakeFiles/untitled_autogen_timestamp_deps | ${cmake_ninja_workdir}CMakeFiles/untitled_autogen_timestamp_deps: phony /home/zenghui/vcpkg/installed/x64-linux/debug/lib/libglog.a /home/zenghui/Qt/5.15.2/gcc_64/lib/libQt5Core.so.5.15.2 /home/zenghui/Qt/5.15.2/gcc_64/bin/moc
+build CMakeFiles/untitled_autogen_timestamp_deps | ${cmake_ninja_workdir}CMakeFiles/untitled_autogen_timestamp_deps: phony /home/zenghui/Qt/5.15.2/gcc_64/lib/libQt5Core.so.5.15.2 /home/zenghui/Qt/5.15.2/gcc_64/bin/moc /home/zenghui/vcpkg/installed/x64-linux/debug/lib/libglog.a
 
 
 #############################################

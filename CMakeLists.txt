@@ -7,6 +7,10 @@ set(CMAKE_AUTORCC ON)
 set(CMAKE_AUTOUIC ON)
 
 set(CMAKE_PREFIX_PATH "/home/zenghui/Qt/5.15.2/gcc_64/lib/cmake/Qt5")
+#set (CMAKE_CXX_LINK_EXECUTABLE "${CMAKE_CXX_LINK_EXECUTABLE} -lpthread")
+#set_target_properties(${TARGET} PROPERTIES
+#        COMPILE_FLAGS "-pthread"
+#        LINK_FLAGS "-pthread")
 
 find_package(Qt5 COMPONENTS
         Core
@@ -28,13 +32,14 @@ if (OpenCV_FOUND)
     message("find OpenCV=${OpenCV_VERSION}")
 endif ()
 find_package(libusb REQUIRED)
-if (libusb_FOUND)
-    message("find libusb=${libusb_VERSION}")
+if (LIBUSB_FOUND)
+    message("find libusb=${Libusb_VERSION}")
+#    set(LIBUSB_LIBRARIES /home/zenghui/vcpkg/installed/x64-linux/debug/lib/libusb-1.0.a)
 endif ()
 
 add_executable(untitled main.cpp usb_info.h usb_info.cpp)
 
-message(LIBUSB_INCLUDE_DIRS = ${LIBUSB_INCLUDE_DIRS})
+
 
 target_link_libraries(untitled
         Qt5::Core
@@ -43,8 +48,11 @@ target_link_libraries(untitled glog::glog)
 find_package(toml11 CONFIG REQUIRED)
 target_link_libraries(untitled toml11::toml11)
 
-#target_include_directories(untitled ${LIBUSB_INCLUDE_DIRS})
-#target_link_libraries(untitled ${LIBUSB_LIBRARIES})
+message(LIBUSB_INCLUDE_DIRS = ${LIBUSB_INCLUDE_DIRS})
+message(LIBUSB_LIBRARIES = ${LIBUSB_LIBRARIES})
+
+target_include_directories(untitled PRIVATE ${LIBUSB_INCLUDE_DIRS})
+target_link_libraries(untitled ${LIBUSB_LIBRARIES})
 
 
 # Add the custom command to copy the file "example.toml" to the build output directory

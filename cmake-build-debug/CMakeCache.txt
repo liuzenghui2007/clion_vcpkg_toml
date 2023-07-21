@@ -28,7 +28,7 @@ CMAKE_BUILD_TYPE:STRING=Debug
 CMAKE_COLOR_DIAGNOSTICS:BOOL=ON
 
 //CXX compiler
-CMAKE_CXX_COMPILER:FILEPATH=/usr/bin/c++
+CMAKE_CXX_COMPILER:STRING=/usr/bin/c++
 
 //A wrapper around 'ar' adding the appropriate '--plugin' option
 // for the GCC compiler
@@ -350,6 +350,9 @@ gflags_DIR:PATH=/home/zenghui/vcpkg/installed/x64-linux/share/gflags
 
 //The directory containing a CMake configuration file for glog.
 glog_DIR:PATH=/home/zenghui/vcpkg/installed/x64-linux/share/glog
+
+//Disable uses of pthreads in gtest.
+gtest_disable_pthreads:BOOL=ON
 
 //The directory containing a CMake configuration file for libusb-1.0.
 libusb-1.0_DIR:PATH=libusb-1.0_DIR-NOTFOUND

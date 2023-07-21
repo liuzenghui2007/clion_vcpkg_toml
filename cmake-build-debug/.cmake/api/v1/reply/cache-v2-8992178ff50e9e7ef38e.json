@@ -154,7 +154,7 @@
 					"value" : "CXX compiler"
 				}
 			],
-			"type" : "FILEPATH",
+			"type" : "STRING",
 			"value" : "/usr/bin/c++"
 		},
 		{
@@ -2420,6 +2420,18 @@
 			],
 			"type" : "PATH",
 			"value" : "/home/zenghui/vcpkg/installed/x64-linux/share/glog"
+		},
+		{
+			"name" : "gtest_disable_pthreads",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Disable uses of pthreads in gtest."
+				}
+			],
+			"type" : "BOOL",
+			"value" : "ON"
 		},
 		{
 			"name" : "libusb-1.0_DIR",

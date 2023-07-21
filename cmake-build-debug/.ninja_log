@@ -1,13 +1,13 @@
 # ninja log v5
-9	17	1689909246940969823	CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.o	33b5bfa5b6e2efe4
-0	8	1689909246932969666	/home/zenghui/CLionProjects/untitled/cmake-build-debug/untitled_autogen/mocs_compilation.cpp	89626407d9b139d9
-8	3084	1689908891770043534	CMakeFiles/untitled.dir/main.cpp.o	958c884202b9528e
-0	8	1689909246932969666	untitled_autogen/timestamp	89626407d9b139d9
-9	198	1689908888889987298	CMakeFiles/untitled.dir/usb_info.cpp.o	8c89e2ec39c6fc05
-0	8	1689909246932969666	/home/zenghui/CLionProjects/untitled/cmake-build-debug/untitled_autogen/timestamp	89626407d9b139d9
-0	8	1689909246932969666	untitled_autogen/mocs_compilation.cpp	89626407d9b139d9
-1	9	1689909376824085981	untitled_autogen/timestamp	89626407d9b139d9
-1	9	1689909376824085981	untitled_autogen/mocs_compilation.cpp	89626407d9b139d9
-1	9	1689909376824085981	/home/zenghui/CLionProjects/untitled/cmake-build-debug/untitled_autogen/timestamp	89626407d9b139d9
-1	9	1689909376824085981	/home/zenghui/CLionProjects/untitled/cmake-build-debug/untitled_autogen/mocs_compilation.cpp	89626407d9b139d9
-9	18	1689909376832085094	CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.o	14622dd3467de614
+9	18	1689928802236905112	CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.o	cb5ef1bcdfbb7d8c
+0	9	1689928802228905119	/home/zenghui/CLionProjects/untitled/cmake-build-debug/untitled_autogen/mocs_compilation.cpp	89626407d9b139d9
+9	3071	1689928805284902516	CMakeFiles/untitled.dir/main.cpp.o	6a5b7887badc20b3
+0	9	1689928802228905119	untitled_autogen/timestamp	89626407d9b139d9
+9	205	1689928802424904953	CMakeFiles/untitled.dir/usb_info.cpp.o	b49640fd04e2d746
+0	9	1689928802228905119	/home/zenghui/CLionProjects/untitled/cmake-build-debug/untitled_autogen/timestamp	89626407d9b139d9
+0	9	1689928802228905119	untitled_autogen/mocs_compilation.cpp	89626407d9b139d9
+0	5	1689928816448892995	untitled_autogen/timestamp	89626407d9b139d9
+0	5	1689928816448892995	untitled_autogen/mocs_compilation.cpp	89626407d9b139d9
+0	5	1689928816448892995	/home/zenghui/CLionProjects/untitled/cmake-build-debug/untitled_autogen/timestamp	89626407d9b139d9
+0	5	1689928816448892995	/home/zenghui/CLionProjects/untitled/cmake-build-debug/untitled_autogen/mocs_compilation.cpp	89626407d9b139d9
+5	152	1689928816592892872	untitled	db87b95a16811159
