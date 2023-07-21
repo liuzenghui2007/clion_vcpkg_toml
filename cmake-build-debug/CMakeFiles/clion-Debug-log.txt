@@ -5,8 +5,6 @@ find toml11=3.7.1
 find gRPC=1.51.1
 find OpenCV=4.7.0
 find libusb=
-LIBUSB_INCLUDE_DIRS=/home/zenghui/vcpkg/installed/x64-linux/include/libusb-1.0
-LIBUSB_LIBRARIES=optimized/home/zenghui/vcpkg/installed/x64-linux/lib/libusb-1.0.adebug/home/zenghui/vcpkg/installed/x64-linux/debug/lib/libusb-1.0.audev
 -- Configuring done
 -- Generating done
 -- Build files have been written to: /home/zenghui/CLionProjects/untitled/cmake-build-debug

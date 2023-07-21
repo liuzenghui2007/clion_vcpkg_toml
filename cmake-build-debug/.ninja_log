@@ -1,14 +1,10 @@
 # ninja log v5
 9	18	1689928802236905112	CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.o	cb5ef1bcdfbb7d8c
-0	5	1689928816448892995	/home/zenghui/CLionProjects/untitled/cmake-build-debug/untitled_autogen/mocs_compilation.cpp	89626407d9b139d9
+0	5	1689934293929223294	/home/zenghui/CLionProjects/untitled/cmake-build-debug/untitled_autogen/mocs_compilation.cpp	89626407d9b139d9
 9	3071	1689928805284902516	CMakeFiles/untitled.dir/main.cpp.o	6a5b7887badc20b3
-0	5	1689928816448892995	untitled_autogen/timestamp	89626407d9b139d9
+0	5	1689934293929223294	untitled_autogen/timestamp	89626407d9b139d9
+0	107	1689934474066891393	build.ninja	5921e9e41e97d786
 9	205	1689928802424904953	CMakeFiles/untitled.dir/usb_info.cpp.o	b49640fd04e2d746
-0	5	1689928816448892995	/home/zenghui/CLionProjects/untitled/cmake-build-debug/untitled_autogen/timestamp	89626407d9b139d9
+0	5	1689934293929223294	/home/zenghui/CLionProjects/untitled/cmake-build-debug/untitled_autogen/timestamp	89626407d9b139d9
 5	152	1689928816592892872	untitled	db87b95a16811159
-0	5	1689928816448892995	untitled_autogen/mocs_compilation.cpp	89626407d9b139d9
-0	146	1689929018368717435	build.ninja	5921e9e41e97d786
-1	11	1689929018408717399	untitled_autogen/timestamp	89626407d9b139d9
-1	11	1689929018408717399	untitled_autogen/mocs_compilation.cpp	89626407d9b139d9
-1	11	1689929018408717399	/home/zenghui/CLionProjects/untitled/cmake-build-debug/untitled_autogen/timestamp	89626407d9b139d9
-1	11	1689929018408717399	/home/zenghui/CLionProjects/untitled/cmake-build-debug/untitled_autogen/mocs_compilation.cpp	89626407d9b139d9
+0	5	1689934293929223294	untitled_autogen/mocs_compilation.cpp	89626407d9b139d9

@@ -183,10 +183,7 @@
 		"/home/zenghui/vcpkg/installed/x64-linux/share/opencv4/OpenCVModules-debug.cmake",
 		"/home/zenghui/vcpkg/installed/x64-linux/share/opencv4/OpenCVModules-release.cmake",
 		"/home/zenghui/vcpkg/installed/x64-linux/share/libusb/vcpkg-cmake-wrapper.cmake",
-		"/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/SelectLibraryConfigurations.cmake",
-		"/home/zenghui/vcpkg/installed/x64-linux/share/toml11/toml11ConfigVersion.cmake",
-		"/home/zenghui/vcpkg/installed/x64-linux/share/toml11/toml11Config.cmake",
-		"/home/zenghui/vcpkg/installed/x64-linux/share/toml11/toml11Targets.cmake"
+		"/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/SelectLibraryConfigurations.cmake"
 	],
 	"CMAKE_SOURCE_DIR" : "/home/zenghui/CLionProjects/untitled",
 	"DEP_FILE" : "/home/zenghui/CLionProjects/untitled/cmake-build-debug/untitled_autogen/deps",
@@ -203,7 +200,7 @@
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
 	"INCLUDE_DIR" : "/home/zenghui/CLionProjects/untitled/cmake-build-debug/untitled_autogen/include",
 	"MOC_COMPILATION_FILE" : "/home/zenghui/CLionProjects/untitled/cmake-build-debug/untitled_autogen/mocs_compilation.cpp",
-	"MOC_DEFINITIONS" : [ "GFLAGS_IS_A_DLL=0", "QT_CORE_LIB" ],
+	"MOC_DEFINITIONS" : [ "CARES_STATICLIB", "GFLAGS_IS_A_DLL=0", "QT_CORE_LIB" ],
 	"MOC_DEPEND_FILTERS" : 
 	[
 		[

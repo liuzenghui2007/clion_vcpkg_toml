@@ -808,18 +808,6 @@
 			"isCMake" : true,
 			"isExternal" : true,
 			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/SelectLibraryConfigurations.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "/home/zenghui/vcpkg/installed/x64-linux/share/toml11/toml11ConfigVersion.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "/home/zenghui/vcpkg/installed/x64-linux/share/toml11/toml11Config.cmake"
-		},
-		{
-			"isExternal" : true,
-			"path" : "/home/zenghui/vcpkg/installed/x64-linux/share/toml11/toml11Targets.cmake"
 		}
 	],
 	"kind" : "cmakeFiles",

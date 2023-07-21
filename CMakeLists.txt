@@ -44,19 +44,18 @@ add_executable(untitled main.cpp usb_info.h usb_info.cpp)
 target_link_libraries(untitled
         Qt5::Core
         )
-
+# 包含头文件
+target_include_directories(untitled PRIVATE ${LIBUSB_INCLUDE_DIRS})
 # 链接glog
 target_link_libraries(untitled glog::glog)
 # 链接toml11
-find_package(toml11 CONFIG REQUIRED)
 target_link_libraries(untitled toml11::toml11)
-
-message(LIBUSB_INCLUDE_DIRS = ${LIBUSB_INCLUDE_DIRS})
-message(LIBUSB_LIBRARIES = ${LIBUSB_LIBRARIES})
 # 链接libusb
-target_include_directories(untitled PRIVATE ${LIBUSB_INCLUDE_DIRS})
 target_link_libraries(untitled ${LIBUSB_LIBRARIES})
-
+# 链接grpc
+target_link_libraries(untitled gRPC::gpr gRPC::grpc gRPC::grpc++ gRPC::grpc++_alts)
+# 链接opencv
+target_link_libraries(untitled opencv_ml opencv_dnn opencv_core opencv_flann)
 
 # Add the custom command to copy the file "example.toml" to the build output directory
 add_custom_command(TARGET untitled POST_BUILD
