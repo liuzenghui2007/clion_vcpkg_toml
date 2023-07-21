@@ -1,0 +1,17 @@
+# ninja log v5
+10	19	1689902610530421320	CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.o	4e3b0f873aa24cee
+0	5	1689903653624623058	/home/zenghui/CLionProjects/untitled/cmake-build-debug/untitled_autogen/mocs_compilation.cpp	89626407d9b139d9
+5	3080	1689902883700927637	CMakeFiles/untitled.dir/main.cpp.o	cf664c6b11750db3
+0	5	1689903653624623058	untitled_autogen/timestamp	89626407d9b139d9
+0	105	1689904235395971707	build.ninja	5921e9e41e97d786
+0	5	1689903653624623058	/home/zenghui/CLionProjects/untitled/cmake-build-debug/untitled_autogen/timestamp	89626407d9b139d9
+5	145	1689903653764623056	untitled	406f47eb20538642
+0	5	1689903653624623058	untitled_autogen/mocs_compilation.cpp	89626407d9b139d9
+0	113	1689904235395971707	build.ninja	5921e9e41e97d786
+0	15	1689904235419971661	untitled_autogen/timestamp	89626407d9b139d9
+0	15	1689904235419971661	untitled_autogen/mocs_compilation.cpp	89626407d9b139d9
+0	15	1689904235419971661	/home/zenghui/CLionProjects/untitled/cmake-build-debug/untitled_autogen/timestamp	89626407d9b139d9
+0	15	1689904235419971661	/home/zenghui/CLionProjects/untitled/cmake-build-debug/untitled_autogen/mocs_compilation.cpp	89626407d9b139d9
+15	31	1689904235435971632	CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.o	14622dd3467de614
+15	3129	1689904238527965830	CMakeFiles/untitled.dir/main.cpp.o	958c884202b9528e
+3129	3266	1689904238667965567	untitled	e08f2815ba02ba28
