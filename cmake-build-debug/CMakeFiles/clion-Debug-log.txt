@@ -4,10 +4,7 @@ find toml11=3.7.1
 -- Found RE2 via CMake.
 find gRPC=1.51.1
 find OpenCV=4.7.0
-CMake Error at CMakeLists.txt:42 (target_include_directories):
-  target_include_directories called with invalid arguments
-
-
--- Configuring incomplete, errors occurred!
-See also "/home/zenghui/CLionProjects/untitled/cmake-build-debug/CMakeFiles/CMakeOutput.log".
-See also "/home/zenghui/CLionProjects/untitled/cmake-build-debug/CMakeFiles/CMakeError.log".
+LIBUSB_INCLUDE_DIRS=/home/zenghui/vcpkg/installed/x64-linux/include/libusb-1.0
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/zenghui/CLionProjects/untitled/cmake-build-debug

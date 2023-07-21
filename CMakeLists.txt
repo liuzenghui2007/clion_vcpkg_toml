@@ -33,14 +33,19 @@ if (libusb_FOUND)
 endif ()
 
 add_executable(untitled main.cpp usb_info.h usb_info.cpp)
+
+message(LIBUSB_INCLUDE_DIRS = ${LIBUSB_INCLUDE_DIRS})
+
 target_link_libraries(untitled
         Qt5::Core
         )
 target_link_libraries(untitled glog::glog)
 find_package(toml11 CONFIG REQUIRED)
 target_link_libraries(untitled toml11::toml11)
-target_include_directories(untitled ${LIBUSB_INCLUDE_DIRS})
-target_link_libraries(untitled ${LIBUSB_LIBRARIES})
+
+#target_include_directories(untitled ${LIBUSB_INCLUDE_DIRS})
+#target_link_libraries(untitled ${LIBUSB_LIBRARIES})
+
 
 # Add the custom command to copy the file "example.toml" to the build output directory
 add_custom_command(TARGET untitled POST_BUILD
