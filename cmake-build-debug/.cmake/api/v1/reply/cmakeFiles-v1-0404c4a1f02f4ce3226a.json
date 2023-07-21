@@ -1,0 +1,836 @@
+{
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.25.2/CMakeSystem.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/vcpkg/scripts/buildsystems/vcpkg.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/CMakeDependentOption.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.25.2/CMakeCCompiler.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.25.2/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/Platform/Linux.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/Platform/UnixPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/CMakeCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/Compiler/GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/Platform/Linux-GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/Platform/Linux-GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/Compiler/GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/Platform/Linux-GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/Platform/Linux-GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/Qt/5.15.2/gcc_64/lib/cmake/Qt5/Qt5ConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/Qt/5.15.2/gcc_64/lib/cmake/Qt5/Qt5Config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/Qt/5.15.2/gcc_64/lib/cmake/Qt5/Qt5ModuleLocation.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/Qt/5.15.2/gcc_64/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/Qt/5.15.2/gcc_64/lib/cmake/Qt5Core/Qt5CoreConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/Qt/5.15.2/gcc_64/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/Qt/5.15.2/gcc_64/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/Qt/5.15.2/gcc_64/lib/cmake/Qt5Core/Qt5CoreMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/CMakeParseArguments.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/vcpkg/installed/x64-linux/share/glog/glog-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/vcpkg/installed/x64-linux/share/glog/glog-config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/vcpkg/installed/x64-linux/share/gflags/vcpkg-cmake-wrapper.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/vcpkg/installed/x64-linux/share/gflags/gflags-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/vcpkg/installed/x64-linux/share/gflags/gflags-config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/vcpkg/installed/x64-linux/share/gflags/gflags-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/vcpkg/installed/x64-linux/share/gflags/gflags-targets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/vcpkg/installed/x64-linux/share/gflags/gflags-targets-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/vcpkg/installed/x64-linux/share/glog/glog-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/vcpkg/installed/x64-linux/share/glog/glog-targets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/vcpkg/installed/x64-linux/share/glog/glog-targets-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/vcpkg/installed/x64-linux/share/toml11/toml11ConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/vcpkg/installed/x64-linux/share/toml11/toml11Config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/vcpkg/installed/x64-linux/share/toml11/toml11Targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/vcpkg/installed/x64-linux/share/grpc/gRPCConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/vcpkg/installed/x64-linux/share/grpc/gRPCConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/vcpkg/installed/x64-linux/share/zlib/vcpkg-cmake-wrapper.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/FindZLIB.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/SelectLibraryConfigurations.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/vcpkg/installed/x64-linux/share/protobuf/vcpkg-cmake-wrapper.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/vcpkg/installed/x64-linux/share/protobuf/protobuf-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/vcpkg/installed/x64-linux/share/protobuf/protobuf-config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/vcpkg/installed/x64-linux/share/protobuf/protobuf-options.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/vcpkg/installed/x64-linux/share/protobuf/protobuf-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/vcpkg/installed/x64-linux/share/protobuf/protobuf-targets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/vcpkg/installed/x64-linux/share/protobuf/protobuf-targets-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/vcpkg/installed/x64-linux/share/protobuf/protobuf-module.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/SelectLibraryConfigurations.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/FindOpenSSL.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/FindPkgConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/FindThreads.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/CheckIncludeFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/Internal/CheckSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/vcpkg/installed/x64-linux/share/grpc/modules/Findc-ares.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/vcpkg/installed/x64-linux/share/c-ares/c-ares-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/vcpkg/installed/x64-linux/share/c-ares/c-ares-config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/vcpkg/installed/x64-linux/share/c-ares/c-ares-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/vcpkg/installed/x64-linux/share/c-ares/c-ares-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/vcpkg/installed/x64-linux/share/c-ares/c-ares-targets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/vcpkg/installed/x64-linux/share/c-ares/c-ares-targets-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/vcpkg/installed/x64-linux/share/absl/abslConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/vcpkg/installed/x64-linux/share/absl/abslConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/FindThreads.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/CheckIncludeFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/vcpkg/installed/x64-linux/share/absl/abslTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/vcpkg/installed/x64-linux/share/absl/abslTargets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/vcpkg/installed/x64-linux/share/absl/abslTargets-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/vcpkg/installed/x64-linux/share/grpc/modules/Findre2.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/vcpkg/installed/x64-linux/share/re2/re2ConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/vcpkg/installed/x64-linux/share/re2/re2Config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/FindThreads.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/CheckIncludeFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/vcpkg/installed/x64-linux/share/re2/re2Targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/vcpkg/installed/x64-linux/share/re2/re2Targets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/vcpkg/installed/x64-linux/share/re2/re2Targets-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/vcpkg/installed/x64-linux/share/upb/upb-config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/vcpkg/installed/x64-linux/share/upb/upb-config-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/vcpkg/installed/x64-linux/share/upb/upb-config-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/vcpkg/installed/x64-linux/share/grpc/gRPCTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/vcpkg/installed/x64-linux/share/grpc/gRPCTargets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/vcpkg/installed/x64-linux/share/grpc/gRPCTargets-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/vcpkg/installed/x64-linux/share/opencv4/OpenCVConfig-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/vcpkg/installed/x64-linux/share/opencv4/OpenCVConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/vcpkg/installed/x64-linux/share/opencv4/OpenCVModules.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/vcpkg/installed/x64-linux/share/protobuf/vcpkg-cmake-wrapper.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/vcpkg/installed/x64-linux/share/protobuf/protobuf-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/vcpkg/installed/x64-linux/share/protobuf/protobuf-config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/vcpkg/installed/x64-linux/share/protobuf/protobuf-options.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/vcpkg/installed/x64-linux/share/protobuf/protobuf-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/vcpkg/installed/x64-linux/share/protobuf/protobuf-module.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/SelectLibraryConfigurations.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/FindThreads.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/CheckIncludeFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/vcpkg/installed/x64-linux/share/tiff/vcpkg-cmake-wrapper.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/FindTIFF.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/SelectLibraryConfigurations.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/SelectLibraryConfigurations.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/vcpkg/installed/x64-linux/share/liblzma/vcpkg-cmake-wrapper.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/FindLibLZMA.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/SelectLibraryConfigurations.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/SelectLibraryConfigurations.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/FindThreads.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/CheckIncludeFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/vcpkg/installed/x64-linux/share/jpeg/vcpkg-cmake-wrapper.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/FindJPEG.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/SelectLibraryConfigurations.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/vcpkg/installed/x64-linux/share/zlib/vcpkg-cmake-wrapper.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/FindZLIB.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/vcpkg/installed/x64-linux/share/quirc/quirc-config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/vcpkg/installed/x64-linux/share/quirc/quirc-config-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/vcpkg/installed/x64-linux/share/quirc/quirc-config-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/vcpkg/installed/x64-linux/share/opencv4/OpenCVModules-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/vcpkg/installed/x64-linux/share/opencv4/OpenCVModules-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/vcpkg/installed/x64-linux/share/libusb/vcpkg-cmake-wrapper.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/apps/com.jetbrains.clion/files/bin/cmake/linux/x64/share/cmake-3.25/Modules/SelectLibraryConfigurations.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/vcpkg/installed/x64-linux/share/toml11/toml11ConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/vcpkg/installed/x64-linux/share/toml11/toml11Config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/zenghui/vcpkg/installed/x64-linux/share/toml11/toml11Targets.cmake"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "/home/zenghui/CLionProjects/untitled/cmake-build-debug",
+		"source" : "/home/zenghui/CLionProjects/untitled"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}

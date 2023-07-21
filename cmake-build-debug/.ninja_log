@@ -1,0 +1,8 @@
+# ninja log v5
+0	8	1689908888697983549	untitled_autogen/timestamp	89626407d9b139d9
+0	8	1689908888697983549	untitled_autogen/mocs_compilation.cpp	89626407d9b139d9
+0	8	1689908888697983549	/home/zenghui/CLionProjects/untitled/cmake-build-debug/untitled_autogen/timestamp	89626407d9b139d9
+0	8	1689908888697983549	/home/zenghui/CLionProjects/untitled/cmake-build-debug/untitled_autogen/mocs_compilation.cpp	89626407d9b139d9
+8	19	1689908888705983705	CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.o	14622dd3467de614
+9	198	1689908888889987298	CMakeFiles/untitled.dir/usb_info.cpp.o	8c89e2ec39c6fc05
+8	3084	1689908891770043534	CMakeFiles/untitled.dir/main.cpp.o	958c884202b9528e
